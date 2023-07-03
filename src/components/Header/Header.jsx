@@ -3,7 +3,6 @@ import React, { useRef } from "react";
 import { Container, Row, Col } from "reactstrap";
 import { Link, NavLink } from "react-router-dom";
 import "../../styles/header.css";
-import { RiPhoneFill } from "react-icons/ri";
 
 
 const navLinks = [
