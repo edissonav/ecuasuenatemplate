@@ -45,7 +45,7 @@ const Header = () => {
               <div className="header__top__left">
                 <span>Need Help?</span>
                 <span className="header__top__help">
-                  <RiPhoneFill/> +593-998965599
+                <i className="ri-phone-fill"></i> +593-998965599
                 </span>
               </div>
             </Col>
